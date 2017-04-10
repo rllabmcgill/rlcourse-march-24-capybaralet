@@ -1,1 +1,3 @@
-# rlcourse-march-10-capybaralet
+# rlcourse-march-24-capybaralet
+
+Effects of baseline on gradient bandit algorithm
